@@ -6,7 +6,7 @@ var bool = arr.every(function (element,index,arr){
     console.;
   }
 });
-
+var jj = "ssss";
 var data = new Data();
 
 console.log(bool);
